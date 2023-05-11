@@ -1,4 +1,4 @@
-# Business Card Project
+# Business Card Projectj
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
